@@ -47,5 +47,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.shanks1927:openvpn_library:v1.1.2'
+    implementation 'com.github.shanks1927:openvpn_library:v1.1.3'
 }
